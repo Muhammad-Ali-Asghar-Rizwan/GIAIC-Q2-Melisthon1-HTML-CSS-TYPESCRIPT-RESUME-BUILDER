@@ -8,10 +8,6 @@ function addNewWEField() {
     newNode.setAttribute('placeholder' , 'Enter here')
     newNode.setAttribute('style', 'background-color: rgb(245, 243, 243);');
 
-  
-
-
-
 
     let weOb = document.getElementById("we")
     let weAddButtonOb = document.getElementById("weAddButton")
